@@ -1,13 +1,13 @@
 [
   {
-    "exam": "IBPS Clerk",
-    "year": 2024,
-    "shift": "Shift1",
-    "subject": "",
+    "exam": "IBPS PO",
+    "year": 2019,
+    "shift": "",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Moderate",
     "category": "pyq_papers",
-    "pdfUrl": "https://cdn.jsdelivr.net/gh/redopm/recruitment-files@main/pyq_papers/1770394716_",
-    "updatedAt": "2026-04-23T04:46:15.410429"
+    "pdfUrl": "https://cdn.jsdelivr.net/gh/redopm/recruitment-files@main/pyq_papers/1776896618_Most_Repeated_Arithmetic_Problems.pdf",
+    "updatedAt": "2026-04-23T04:50:05.756782"
   }
 ]
